@@ -11,10 +11,10 @@ In terminal input "git checkout master" then "git merge new feature name""
 
 Server: Staging
 Push new feature to staging server
-In terminal "git push staging master"
+In terminal "git push StagingServer master"
 Test feature live on the staging server
 
 Server: Production
 Once you are finished testing and everything is working, push to production server
-In terminal input "git push lauramccool master"
+In terminal input "git push LiveServer master"
 Test new feature live on the production server
